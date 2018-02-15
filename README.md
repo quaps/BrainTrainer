@@ -5,7 +5,6 @@
   <img src ="https://user-images.githubusercontent.com/29079048/36265929-efca959c-1235-11e8-860b-17c8dfed365b.png"/>
 </p>
 
-BrainTrain is a bare-bones 'brain entrainment' application. It includes settings for the following wave patterns.
 =======
 ABOUT
 
