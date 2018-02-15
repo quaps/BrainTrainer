@@ -6,6 +6,7 @@
 </p>
 
 =======
+
 ABOUT
 
 No Brainer is a simple 'brain entrainment' standalone application. Brainwave entrainment is a method to stimulate the brain into entering a specific state by using a pulsing sound, light, or electromagnetic field. The pulses elicit the brain’s ‘frequency following’ response, encouraging the brainwaves to align to the frequency of a given beat.
@@ -22,6 +23,7 @@ No Brainer uses binaural beating, with a slight inclusion of white noise to bloc
 
 
 USE
+
 Download the repo, & execute the No Brainer application.
 
 1. Click on the speaker icon to turn on sound
