@@ -23,6 +23,7 @@ No Brainer uses binaural beating, with a slight inclusion of white noise to bloc
 
 
 USE
+Download the repo, & execute the No Brainer application.
 
 1. Click on the speaker icon to turn on sound
 2. Adjust settings via the big dial by clicking & dragging upwards. Alternatively, you can select settings by clicking on the boxes next to the wave info at the lower left.
