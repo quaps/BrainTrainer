@@ -8,7 +8,7 @@
 =======
 ABOUT
 
-BrainTrain is a simple 'brain entrainment' standalone application. Brainwave entrainment is a method to stimulate the brain into entering a specific state by using a pulsing sound, light, or electromagnetic field. The pulses elicit the brain’s ‘frequency following’ response, encouraging the brainwaves to align to the frequency of a given beat.
+No Brainer is a simple 'brain entrainment' standalone application. Brainwave entrainment is a method to stimulate the brain into entering a specific state by using a pulsing sound, light, or electromagnetic field. The pulses elicit the brain’s ‘frequency following’ response, encouraging the brainwaves to align to the frequency of a given beat.
 No Brainer uses binaural beating, with a slight inclusion of white noise to block external sound. Settings for the following wave patterns are included:
 
 * Delta 
